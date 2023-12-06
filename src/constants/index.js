@@ -1,6 +1,5 @@
 import {
     javascript,
-    typescript,
     html,
     css,
     reactjs,
@@ -154,7 +153,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/anhnnt/portfolio",
-      live_link: "",
+      live_link: "https://portfolio-n9yrcjm9o-anh-nguyens-projects-eefa3467.vercel.app",
     },
     {
       name: "Travel application",
